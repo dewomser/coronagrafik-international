@@ -1,5 +1,5 @@
 # coronagrafik-international
-Vergleich von 4 Coronatabellen verschiedener Länder. Quelle sind die <DIV>s aus Wikipedia
+Vergleich von 4 Coronatabellen verschiedener Länder. Quelle sind die \<DIV\>s aus Wikipedia.
   Benötigt wird:
   
   1. Phantomjs
