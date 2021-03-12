@@ -7,6 +7,6 @@ Vergleich von 4 Coronatabellen verschiedener Länder. Quelle sind die \<DIV\>s a
   3. kopiere FreeSansBold.ttf nach /usr/share/fonts/truetype/freefont/   oder einem anderen Platz für verwendete Fonts.
 
  Alle 4 Ausschnitte werden zu einem Bild zuammengeführt
-![alt text](https://github.com/dewomser/coronagrafik-international/blob/main/dc.jpg "Coronavergleich")
+![alt text](dc.jpg "Coronavergleich")
 
 Viel Spass damit !
