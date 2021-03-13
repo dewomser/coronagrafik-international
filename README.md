@@ -1,4 +1,6 @@
 # coronagrafik-international
+[![Trigger: Push action](https://github.com/dewomser/coronagrafik-international/actions/workflows/test.yml/badge.svg)](https://github.com/dewomser/coronagrafik-international/actions/workflows/test.yml)
+
 Vergleich von 4 Coronatabellen verschiedener Länder. Quelle sind die \<DIV\>s aus Wikipedia.
   Benötigt wird:
   
